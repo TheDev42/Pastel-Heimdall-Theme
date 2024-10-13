@@ -14,5 +14,5 @@ A nice dark pastel theme for your Heimdall dashboard.
 
 ## Installation
 
-1. Copy contents of [style.css]([https://github.com/TheDev42/Pastel-Heimdall-Theme/blob/main/style.css]) file, then paste it into your Heimdall in Settings -> Custom CSS.
-2. _(Optional)_ Download [wallpaper.png]([https://github.com/TheDev42/Pastel-Heimdall-Theme/blob/main/wallpaper.png]) file, then set it as your Heimdall background in Settings -> Background Image. Also you can use any other wallpaper as the background that matches the color palette.
+1. Copy contents of [style.css](https://github.com/TheDev42/Pastel-Heimdall-Theme/blob/main/style.css) file, then paste it into your Heimdall in Settings -> Custom CSS.
+2. _(Optional)_ Download [wallpaper.png](https://github.com/TheDev42/Pastel-Heimdall-Theme/blob/main/wallpaper.png) file, then set it as your Heimdall background in Settings -> Background Image. Also you can use any other wallpaper as the background that matches the color palette.
